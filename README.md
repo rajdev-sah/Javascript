@@ -1,2 +1,2 @@
-# Mernstack
-I'm learning mernstack development.
+# Javascript
+I'm learning javascript development.
